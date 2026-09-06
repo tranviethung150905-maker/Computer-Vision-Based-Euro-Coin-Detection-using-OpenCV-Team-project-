@@ -26,5 +26,6 @@ A computer vision system developed using OpenCV and Python to detect Euro coins 
 - Implemented automatic calibration of Hough Circle Transform parameters to detect and classify coins at varying camera distances.
 - Developed a rule-based classifier to distinguish Euro coins from non-coin objects.
 
-## Developed ##2026
+## Developed 
+2026
 
